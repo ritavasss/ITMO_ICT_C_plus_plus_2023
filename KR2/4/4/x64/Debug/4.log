@@ -1,0 +1,3 @@
+﻿  4.cpp
+C:\Users\ritav\source\repos\C++\Практика 2\KR2\4\4\4.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  4.vcxproj -> C:\Users\ritav\source\repos\C++\Практика 2\KR2\4\x64\Debug\4.exe
